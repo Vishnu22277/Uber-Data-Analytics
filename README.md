@@ -1,3 +1,5 @@
+<img width="960" height="481" alt="image" src="https://github.com/user-attachments/assets/17d2420a-d976-49e8-b0d9-934dd4e89bdb" />
+
 Overview of Dataset
 
 The file ncr_ride_bookings.csv has Uber ride booking data from the National Capital Region (NCR). It includes details like ride ID, date & time, pickup and drop locations, ride status, vehicle type, and fare.
